@@ -2,8 +2,7 @@
 
 ### The project in under implementation and not ready for use.
 
-
-
+```
 reorganization-energy-decomposition/
 ├── src/
 │   ├── __init__.py
@@ -25,3 +24,5 @@ reorganization-energy-decomposition/
 │   └── __init__.py
 ├── requirements.txt
 └── setup.py
+```
+
