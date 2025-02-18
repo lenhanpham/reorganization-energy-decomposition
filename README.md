@@ -1,3 +1,9 @@
+### Main purpose of this project is to decompose reorganization energy into contribution of vibrational modes using Duschinsky matrix, and then calculate Huang-Rhys factors of each mode. 
+
+### The project in under implementation and not ready for use.
+
+
+
 reorganization-energy-decomposition/
 ├── src/
 │   ├── __init__.py
